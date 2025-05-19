@@ -8,7 +8,7 @@ import os
 
 main = Blueprint("main", __name__)
 
-DATA_PATH = "data/stocks.csv"
+DATA_PATH = "data/stocks_data.csv"
 
 @main.route("/")
 def dashboard():
