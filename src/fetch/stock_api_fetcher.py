@@ -7,8 +7,8 @@ import time
 from urllib.parse import urlencode
 from app import evaluate_stock
 
-API_HOST = "stock.indianapi.in"
-API_KEY = "Naman@#2025API!Project"
+API_HOST = "url"
+API_KEY = "key"
 HEADERS = {
     "X-Api-Key": API_KEY
 }
